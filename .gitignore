@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+# Adapted from .ignore support plugin (hsz.mobi)
+
+.idea/
+template.iml
+_site/
+.sass-cache/
